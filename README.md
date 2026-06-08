@@ -57,8 +57,8 @@ GC Content: 52.0%
 Transcribed RNA: AUGCGUACGUAGCUAGCUAGCUAGC
 Protein Sequence: MRT...
 
-## Protein Analysis Features
+- ## Protein Analysis Features
 
 - Protein Translation
-- Protein Length Calculation
+- Amino Acid Sequence Generation
 
