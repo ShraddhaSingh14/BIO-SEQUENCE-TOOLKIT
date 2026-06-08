@@ -60,6 +60,5 @@ Protein Sequence: MRT...
 ## Protein Analysis Features
 
 - Protein Translation
-- Amino Acid Counting
 - Protein Length Calculation
-- Molecular Weight Estimation
+
